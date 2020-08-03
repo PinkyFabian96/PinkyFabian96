@@ -1,5 +1,8 @@
 ### Hola soy Fabián 👋
-
+<hr>
+<img src="https://github.com/PinkyFabian96/PinkyFabian96/blob/master/avatar_description.png">
+soy ingeniero en informática, apasionado por el **internet de las cosas (IOT)**, entre los dispositivos que utilizo y me gusta son el arduino y el esp8266.
+Me gusta mucho todo lo relacionado a la programación, trabaje con tecnologias como Java, Javascript, PHP, y frameworks como Angular y SpringBoot, y motores de Base de datos SQL como MySQL y PostgreSQL.
 <!--
 **PinkyFabian96/PinkyFabian96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
