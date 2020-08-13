@@ -1,6 +1,6 @@
 ### Hola soy Fabián 👋
 <hr>
-<img src="https://github.com/PinkyFabian96/PinkyFabian96/blob/master/avatar_descriptionV2.jpg">
+<img src="https://github.com/PinkyFabian96/PinkyFabian96/blob/master/gps_tracker_v2.gif">
 soy ingeniero en informática, apasionado por el **internet de las cosas (IOT)**, entre los dispositivos que utilizo y me gusta son el arduino y el esp8266.
 Me gusta mucho todo lo relacionado a la programación, trabaje con tecnologias como Java, Javascript, PHP, y frameworks como Angular y SpringBoot, y motores de Base de datos SQL como MySQL y PostgreSQL.
 <!--
