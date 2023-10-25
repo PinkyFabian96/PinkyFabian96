@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <!--## Welcome to my repo-->
 <div align="center">
   <a href="https://github.com/PinkyFabian96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PinkyFabian96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PinkyFabian96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
+  <img height="300px" width="" src="https://github-readme-stats.vercel.app/api?username=PinkyFabian96&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkyFabian96&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
