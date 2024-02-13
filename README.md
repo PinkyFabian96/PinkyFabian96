@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/PinkyFabian96">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PinkyFabian96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-  <img height="300px" width="" src="https://github-readme-stats.vercel.app/api?username=PinkyFabian96&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+  <!--<img height="300px" width="" src="https://github-readme-stats.vercel.app/api?username=PinkyFabian96&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>-->
   <br>
   <img height="233em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkyFabian96&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -36,8 +36,9 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" height="30" width="40" src="https://nestjs.com/img/logo-small.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <!--<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
